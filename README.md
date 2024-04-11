@@ -9,8 +9,8 @@ Cricket Management Software is a software application that maintains the records
 
  
 #--------------------------------PREFACE----------------------------------------------------
-The development of this application is highly economically feasible. The only thing to be done is making an environment with an effective supervision.
-It is cost-effective in the sense that has eliminates the paperwork completely. The system is also time effective because the calculations are automated which are made at the end of the month or as per the user's requirement.
+The development of this application is highly economically feasible. The only thing to be done is to create an environment with effective supervision.
+It is cost-effective in the sense that has eliminates the paperwork. The system is also time effective because the calculations are automated which are made at the end of the month or as per the user's requirement.
 This system developed will reduce manual work and avoid redundant data. By maintaining the player attendance fees and tour manually, then efficient reports cannot be generated. The system can generate efficient weekly, consolidated reports based on attendance. As the fees, attendance, tour, and player details are maintained is registers it has been a tough task for admin and staff to maintain for a long time. Instead, the software can keep long and retrieve the information when needed.
 
 #--------------------------------INTRODUCTION:--------------------------------------------------
