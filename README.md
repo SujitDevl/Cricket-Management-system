@@ -15,7 +15,7 @@ This system developed will reduce manual work and avoid redundant data. By maint
 
 #--------------------------------INTRODUCTION:--------------------------------------------------
 #Background: 
-In brief, project management objectives are the successful development of the project’s procedures of initiation, planning, execution, regulation and closure as well as the guidance of the project team’s operations towards achieving all the agreed upon goals within the set scope, time, quality and budget standards.
+In brief, project management objectives are the successful development of the project’s procedures of initiation, planning, execution, regulation and closure as well as the guidance of the project team’s operations toward achieving all the agreed upon goals within the set scope, time, quality and budget standards.
 
 #Objectives:-------
 The main objective of the application is to automate the existing   system of manually maintain the records of all transactions.
@@ -49,14 +49,14 @@ RAM: 1GB or More
 Hard disk: 80GB or More
 2.	Software Requirements
 
-Front End: JavaScript, Html, and CSS.
+Front End: JavaScript, HTML, and CSS.
 Back End: PHP and MySQL.
 Operating System: Windows XP, 7, 8 and 10.
 
 Functional Requirements
 
 The Cricket Management System involves the following functions.
-Easily track player, fees attendance, and tour information.
+Easily track player, fee attendance, and tour information.
 Quickly produce attendance bulletin.
 Easily add and remove fee details of players.
 Maintain fee details of players
@@ -105,8 +105,8 @@ FUTURE ENHANCEMENT
 
 The Current System can include many more enhancements. These are as follows:
 Buy from the card is optional in this project.
-There is no verification while buy from the card.
-The Payment Gateway is not added in this project.
-As mentioned earlier, the project is web based application. This will convert into
+There is no verification while buying from the card.
+The Payment Gateway is not added to this project.
+As mentioned earlier, the project is web-based application. This will convert into
 Android application which will enhance the project.
-Hence, the current software would be updated in near future to overcome limitation as specified above.
+Hence, the current software will be updated in near future to overcome limitation as specified above.
