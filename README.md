@@ -31,7 +31,7 @@ Organization of Report
 
 The Overall Description:
 
-In this system we tried to make an encouragement to players who are interested.
+In this system, we tried to make an encouragement to players who are interested.
 We developers give our best.
 Product perspective:
 Product functions
