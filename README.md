@@ -11,11 +11,11 @@ Cricket Management Software is a software application that maintains the records
 #--------------------------------PREFACE----------------------------------------------------
 The development of this application is highly economically feasible. The only thing to be done is to create an environment with effective supervision.
 It is cost-effective in the sense that has eliminates the paperwork. The system is also time effective because the calculations are automated which are made at the end of the month or as per the user's requirement.
-This system developed will reduce manual work and avoid redundant data. By maintaining the player attendance fees and tour manually, then efficient reports cannot be generated. The system can generate efficient weekly, consolidated reports based on attendance. As the fees, attendance, tour, and player details are maintained is registers it has been a tough task for admin and staff to maintain for a long time. Instead, the software can keep long and retrieve the information when needed.
+This system developed will reduce manual work and avoid redundant data. By maintaining the player attendance fees and tour manually, then efficient reports cannot be generated. The system can generate efficient weekly, consolidated reports based on attendance. As the fees, attendance, tour, and player details are maintained in registers it has been a tough task for admin and staff to maintain for a long time. Instead, the software can keep long and retrieve the information when needed.
 
 #--------------------------------INTRODUCTION:--------------------------------------------------
 #Background: 
-In brief, project management objectives are the successful development of the project’s procedures of initiation, planning, execution, regulation and closure as well as the guidance of the project team’s operations toward achieving all the agreed-upon goals within the set scope, time, quality, and budget standards.
+In brief, project management objectives are the successful development of the project’s procedures of initiation, planning, execution, regulation, and closure as well as the guidance of the project team’s operations toward achieving all the agreed-upon goals within the set scope, time, quality, and budget standards.
 
 #Objectives:-------
 The main objective of the application is to automate the existing   system of manually maintain the records of all transactions.
@@ -107,6 +107,6 @@ The Current System can include many more enhancements. These are as follows:
 Buy from the card is optional in this project.
 There is no verification while buying from the card.
 The Payment Gateway is not added to this project.
-As mentioned earlier, the project is web-based application. This will convert into
+As mentioned earlier, the project is a web-based application. This will convert into
 Android application which will enhance the project.
-Hence, the current software will be updated in near future to overcome limitation as specified above.
+Hence, the current software will be updated in near future to overcome limitations specified above.
