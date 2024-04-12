@@ -15,7 +15,7 @@ This system developed will reduce manual work and avoid redundant data. By maint
 
 #--------------------------------INTRODUCTION:--------------------------------------------------
 #Background: 
-In brief, project management objectives are the successful development of the project’s procedures of initiation, planning, execution, regulation and closure as well as the guidance of the project team’s operations toward achieving all the agreed upon goals within the set scope, time, quality and budget standards.
+In brief, project management objectives are the successful development of the project’s procedures of initiation, planning, execution, regulation and closure as well as the guidance of the project team’s operations toward achieving all the agreed-upon goals within the set scope, time, quality, and budget standards.
 
 #Objectives:-------
 The main objective of the application is to automate the existing   system of manually maintain the records of all transactions.
