@@ -109,4 +109,4 @@ There is no verification while buying from the card.
 The Payment Gateway is not added to this project.
 As mentioned earlier, the project is a web-based application. This will convert into
 Android application which will enhance the project.
-Hence, the current software will be updated in near future to overcome limitations specified above.
+Hence, the current software will be updated soon to overcome the limitations specified above.
