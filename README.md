@@ -5,7 +5,6 @@
 
 #--------------------------------ABSTRACT----------------------------------------------------
 Cricket Management Software is a software application that maintains the records related to cricket sports players. It also takes care of money transactions at the organization. It includes money collection from the organization by different sources. This application can be used by the organization to manage cricket sport data effectively. This system will reduce manual work and avoid redundant data. By maintaining the player attendance fees and tour manually, then efficient reports cannot be generated. The system can generate efficient weekly, consolidated reports based on attendance. As the fees, attendance, tour, and player details are maintained in registers it has been a tough task for admin and staff to maintain for a long time. Instead, the software can keep long and retrieve the information when needed.
-
  
 #--------------------------------PREFACE----------------------------------------------------
 The development of this application is highly economically feasible. The only thing to be done is to create an environment with effective supervision.
