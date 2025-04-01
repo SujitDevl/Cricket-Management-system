@@ -6,7 +6,7 @@
 The Overall Description:
 
 In this system, we tried to make an encouragement for interested players.
-We developers give our best.
+We developers give our best
 Product perspective:
 Product functions
 
