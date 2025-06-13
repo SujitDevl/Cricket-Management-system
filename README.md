@@ -31,10 +31,10 @@ Functional Requirements
 
 The Cricket Management System involves the following functions.
 Easily track player, fee attendance, and tour information.
-Quickly produce attendance bulletin.
+Quickly produce the attendance bulletin.
 Easily add and remove players' fee details.
-Maintain fee details of players
-Easily to manage player details
+Maintain the fee details of players
+Easy to manage player details
 Provide player information
 
 #-----------------------MODULE DESCRIPTIONS----------------------------------------
