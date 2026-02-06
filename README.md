@@ -1,69 +1,102 @@
-# Cricket-Management-system
- I created a project called Cricket Management System for the final year of my Bachelor of Technology. • In this project, We maintain the records and entries of particular players like players, Fees, Attendance, and Tours. • Mainly designed for cricket clubs or institutes to organize their student details efficiently.
+# 🏏 Cricket Management System
 
-# final-year-project
+## Overview
 
-The Overall Description:
+The Cricket Management System is a web-based application developed to simplify the management of cricket club operations.  
+The system provides a centralized interface to maintain player records, track attendance, manage fees, and handle tour-related information.
 
-In this system, we tried to make an encouragement for interested players.
-We developers give our best
-Product perspective:
-Product functions
+This project was developed as part of my Bachelor’s final year project and focuses mainly on frontend development, user interaction, and form-based workflows, while using PHP and MySQL for backend support.
 
-Types of accessing modules eg: administrator login
-    User characteristic:
-    For ex. We make this software like a history the more you go deeper you go more mysteries.
- 
- #-----------------------Software and Hardware Requirements----------------------------------------
+---
 
-1.	Hardware Requirements
+## Problem Statement
 
-Processor: Intel Core Duo 2.0 GHz or More
-RAM: 1GB or More
-Hard disk: 80GB or More
-2.	Software Requirements
+Managing cricket club data manually using registers or spreadsheets can lead to:
+- Data inconsistency
+- Difficulty in tracking player details
+- Errors in the fee and attendance records
+- Time-consuming administrative work
 
-Front End: JavaScript, HTML, and CSS.
-Back End: PHP and MySQL.
-Operating System: Windows XP, 7, 8 and 10.
+The goal of this project was to create a digital system that organizes this information in a structured and user-friendly way.
 
-Functional Requirements
+---
 
-The Cricket Management System involves the following functions.
-Easily track player, fee attendance, and tour information.
-Quickly produce the attendance bulletin.
-Easily add and remove players' fee details.
-Maintain the fee details of players
-Easy to manage player details
-Provide player information
+## Solution
 
-#-----------------------MODULE DESCRIPTIONS----------------------------------------
+The Cricket Management System provides:
+- A login-based interface for administrators
+- Structured screens for managing different club activities
+- Forms and tables to add, view, and update records
+- A clean workflow between different modules
 
-•	Login module
-	Login
-	Change password
-	Logout
-	
-•	Player module
-	 Player registration module 
-	 Deleted player 
-	View player details 
-	Updated player details
-	Search player 
+The application is designed to be simple, intuitive, and easy to use.
 
-•	Attendance module 
-	Add player attendance
-	Updated Attendance
-	View player attendance
+---
 
+## Key Features
 
-•	Fees module   
-	Add fee structure
-	Add/update player fee
-	View player fee details
-•	Tour module
-	Add a player and select the tour
-	View player-selected tour details 
-	Add tour fees 
-	View tour fees 
+- Login system for authorized access
+- Player management (add, view, update player details)
+- Attendance tracking
+- Fee management
+- Tour and event record management
+- Form-based data entry with validations
+- Tabular display of records
+- Consistent UI layout across all pages
 
+---
+
+## My Role & Responsibilities
+
+My primary responsibility in this project was frontend development and user interaction, which included:
+
+- Designing application screens using HTML and CSS
+- Creating structured forms for data input
+- Implementing client-side interactivity using JavaScript
+- Handling basic form validations and user feedback
+- Managing page navigation and user flow
+- Ensuring consistent layout and usability
+- Integrating frontend screens with backend PHP scripts
+
+---
+
+## Technologies Used
+
+### Frontend
+- HTML5
+- CSS3
+- JavaScript
+
+### Backend
+- PHP
+
+### Database
+- MySQL
+
+### Development Environment
+- XAMPP (Apache & MySQL)
+
+---
+
+## Application Modules
+
+The system includes the following modules:
+- Login & Authentication
+- Player Management
+- Attendance Management
+- Fee Management
+- Tour / Event Management
+- Dashboard and Navigation
+
+Each module follows a consistent design and structured workflow.
+
+---
+
+## Project Structure (High Level)
+
+│
+├── css/ # Stylesheets for UI design
+├── js/ # JavaScript files for frontend logic
+├── admin/ # Admin-related pages and modules
+├── index.php # Entry point (login/dashboard)
+├── config/ # Configuration and database connection
